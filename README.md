@@ -1,2 +1,2 @@
-# javascript-problem
+# javascript problems
 javascript problems and solution codes
