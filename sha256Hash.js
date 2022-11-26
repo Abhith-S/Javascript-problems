@@ -28,5 +28,3 @@ function findColor(hash) {
 }
 
 //test out the code using getting the hash of the color names ,ie, the strings like red,green etc and then passing them to findColor("input hash here");
-
-module.exports = findColor;
