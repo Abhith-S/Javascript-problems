@@ -13,5 +13,6 @@ function splitAtX(string) {
     else
     return upper
 }
+splitAtX("haixthere");
 
-module.exports = splitAtX;
+
