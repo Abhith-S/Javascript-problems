@@ -10,3 +10,4 @@ function isPalindrome(string) {
 
     return (revString == string ? true : false);
 }
+isPalindrome("malayalam");
